@@ -3,7 +3,7 @@ import csv
 
 # Ustawienia
 rok = 2025
-przesuniecie_cyklu = 7  # tutaj cykl rozpoczyna sie od drugiej II zmiany
+przesuniecie_cyklu = 1  # tutaj cykl rozpoczyna sie od drugiej II zmiany
 ilosc_osob = 4          # ilosc osob w brygadzie
 
 # Separator dla PL CSV
