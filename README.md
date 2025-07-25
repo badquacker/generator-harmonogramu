@@ -6,12 +6,12 @@ Skrypt napisałem dla siebie, by móc szybko wygenerować grafik na cały rok dl
 
 ## Format zapisu
 
-![harmonogram CSV](https://raw.githubusercontent.com/badquacker/generator-harmonogramu/main/img/harm-csv.jpg)
+![CSV](img/harm_csv.jpg)
 
 ## Harmonogram w Excel
 Dane przekopiowuję jako wartości do przygotowanego wcześniej harmonogramu w Excel:
 
-![harmonogram CSV](https://raw.githubusercontent.com/badquacker/generator-harmonogramu/main/img/harm-excel.jpg)
+![Excel](img/harm_excel.jpg)
 
 
 ## Konfiguracja
