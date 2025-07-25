@@ -13,6 +13,8 @@ Dane przekopiowuję jako wartości do przygotowanego wcześniej harmonogramu w E
 
 ![Excel](img/harm_excel.jpg)
 
+[Harmonogram](harmonogram_github.xlsx)
+Harmonogram jest kompatypilny z LibreOffice.
 
 ## Konfiguracja
 Skrypt nie jest interaktywny i zmiana parametrów związana jest edycją samego skryptu. Zmienne są dość czytelnie rozpisane.
